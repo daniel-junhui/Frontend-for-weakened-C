@@ -1,0 +1,6 @@
+
+
+func main() Void {
+	printf("hello world!\n");
+	return;
+}

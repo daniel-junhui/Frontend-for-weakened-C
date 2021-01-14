@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "numeric": "cpp",
+        "fstream": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "*.inc": "cpp",
+        "streambuf": "cpp",
+        "chrono": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "string_view": "cpp",
+        "functional": "cpp",
+        "future": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp"
+    }
+}
