@@ -1,4 +1,3 @@
-# Seal-Compiler
 Code record for the Compiler course
 
 - [x] Lexical analysis
